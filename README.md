@@ -10,4 +10,4 @@ This Jupyter Notebook trains a neural network (PyTorch) and uses a bit of NLP (S
 
 **Output**: A Pandas DataFrame with the texts and their classes.
 
-Note: Count Vectorizer achieves greater accuracy than TF-IDF.
+**Note**: Count Vectorizer achieves greater accuracy than TF-IDF.
